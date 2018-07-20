@@ -16,7 +16,7 @@ RUN cd /opt/docker_bld && \
 git clone https://github.com/kakwa/libvisio2svg && \
 cd /opt/docker_bld/libvisio2svg && \
 cmake . && \
-make . && \
+make && \
 make install
 # Update libraries
 RUN ldconfig
