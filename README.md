@@ -1,5 +1,5 @@
 # vss2svg_docker
-Dockerfile for an excellent Visio Stencil converter created by [kawka](https://github.com/kakwa/libvisio2svg)
+Dockerfile for an excellent Visio Stencil converter created by [kawka].(https://github.com/kakwa/libvisio2svg)
 
 ## How to build and run
 1. Pull this repo.
