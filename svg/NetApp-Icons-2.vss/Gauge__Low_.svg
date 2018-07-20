@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="7.2000000000">
+  <title><![CDATA[Gauge (Low)]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.5735,-12.2588 C27.0116,-2.7885 27.0116,-2.7885 27.0116,-2.7885 C30.3187,-0.8343 32.5735,2.6231 32.5735,6.6818 C43.5470,6.6818 43.5470,6.6818 43.5470,6.6818 C43.5470,-1.4356 39.0374,-8.5007 32.5735,-12.2588 Z" style="fill-rule: evenodd; fill: #2061a2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.5735,-12.2588 C27.0116,-2.7885 27.0116,-2.7885 27.0116,-2.7885 C30.3187,-0.8343 32.5735,2.6231 32.5735,6.6818 C43.5470,6.6818 43.5470,6.6818 43.5470,6.6818 C43.5470,-1.4356 39.0374,-8.5007 32.5735,-12.2588 Z" style="stroke-width: 0.1181; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.6265,-12.2588 C16.1884,-2.7885 16.1884,-2.7885 16.1884,-2.7885 C19.3452,-4.5923 23.5542,-4.7426 27.0116,-2.7885 C32.5735,-12.2588 32.5735,-12.2588 32.5735,-12.2588 C25.5084,-16.3174 17.2407,-16.0168 10.6265,-12.2588 Z" style="fill-rule: evenodd; fill: #8ca7ca; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.6265,-12.2588 C16.1884,-2.7885 16.1884,-2.7885 16.1884,-2.7885 C19.3452,-4.5923 23.5542,-4.7426 27.0116,-2.7885 C32.5735,-12.2588 32.5735,-12.2588 32.5735,-12.2588 C25.5084,-16.3174 17.2407,-16.0168 10.6265,-12.2588 Z" style="stroke-width: 0.1181; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M-0.3470,6.6818 C10.6265,6.6818 10.6265,6.6818 10.6265,6.6818 C10.6265,2.9238 12.5807,-0.6839 16.1884,-2.7885 C10.6265,-12.2588 10.6265,-12.2588 10.6265,-12.2588 C3.5613,-8.2001 -0.3470,-0.8343 -0.3470,6.6818 Z" style="fill-rule: evenodd; fill: #c4d0e2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M-0.3470,6.6818 C10.6265,6.6818 10.6265,6.6818 10.6265,6.6818 C10.6265,2.9238 12.5807,-0.6839 16.1884,-2.7885 C10.6265,-12.2588 10.6265,-12.2588 10.6265,-12.2588 C3.5613,-8.2001 -0.3470,-0.8343 -0.3470,6.6818 Z" style="stroke-width: 0.1181; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.1691,-1.5859 L23.2535,3.8257 L24.4561,8.3354 L19.9465,9.5380 L7.1691,-1.5859 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-8.2314" y="13.5321">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Gauge (Low)</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

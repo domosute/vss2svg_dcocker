@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="33.4685000000" height="30.4668000000">
+  <title><![CDATA[Reporting]]></title>
+  <g transform=" scale(1.000000) ">
+    <text xmlns="http://www.w3.org/2000/svg" x="6.9784" y="30.4668">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Reporting</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+    <g transform=" translate(-1.172300,-1.140400) ">
+      <!--emf-blob start-->
+      <g transform="translate(2.7307, 0.9102)">
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 131.9842,73.7291 C 28.2173,129.2535 -12.7433,254.8661 40.9606,354.9921 C 91.9338,451.4771 212.9952,487.8866 314.9417,440.5543 C 250.3149,316.7622 173.8551,201.1622 140.1764,70.0882 C 137.4457,70.9984 134.7149,71.9087 131.9842,73.7291 " fill="#5195D0" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 131.9842,73.7291 M 131.9842,73.7291 C 28.2173,129.2535 -12.7433,254.8661 40.9606,354.9921 C 91.9338,451.4771 212.9952,487.8866 314.9417,440.5543 C 250.3149,316.7622 173.8551,201.1622 140.1764,70.0882 C 137.4457,70.9984 134.7149,71.9087 131.9842,73.7291 " stroke="#0054A6" stroke-width="7.2819" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+          <path d="M 18.2047,2.7307 C 15.4740,1.8205 12.7433,2.7307 10.0126,3.6409 C 3.6409,7.2819 1.8205,15.4740 5.4614,21.8457 C 8.1921,27.3071 15.4740,30.0378 21.8457,27.3071 L 15.4740,13.6535 L 18.2047,2.7307 Z " fill="none" stroke="none"/>
+          <defs>
+            <clipPath id="clip-1776808933">
+              <path d="M 18.2047,2.7307 C 15.4740,1.8205 12.7433,2.7307 10.0126,3.6409 C 3.6409,7.2819 1.8205,15.4740 5.4614,21.8457 C 8.1921,27.3071 15.4740,30.0378 21.8457,27.3071 L 15.4740,13.6535 L 18.2047,2.7307 Z"/>
+            </clipPath>
+          </defs>
+          <image width="20.9354" height="28.2173" x="0.9102" y="1.8205" clip-path="url(#clip-1776808933)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAfCAYAAAAMeVbNAAABoElEQVRIia2WW5KDQAhFuZR7mIXOxmaH5EOgL3S3Zkz8iY/UAQ5IiZ/fP5NvHkCeHt8CGkREIDLYn8FNMYAQsSDjEzgghhMav6zDnsJNUeCpJOF4kDlBtgEeaXHQCb0IkP//B9zgOjSyVzGVCT7+j/fgAT3B9BvNjGuhAO9kbgQ1yDqAj2Np6i0caK51nCfcr0WoqSPIFm4YgNPxBsyj6BNzOecnxDUQNBu483+rhXVQRl1JryIDXGkxziI8l5dlryf3y14LZypjDFlP19L1yAoOd52ZIyuxoqvpadlH6gVuXpb5CuUgdSq6HhXRK+cBUc6wNpL1VDAttcx+ypwic+Yy1FipREfA1vQCj8HnjKO/NVgby0VTF6MYD2hitOkJbbkRaXn1FVydR0Ssz2mOq54WmHbMEY4nDV1J9CJGNRurpdmT88k3N7A0s++QljlXMGvp7lsV/mD0gCprO6c1lA+0S9ZEQHqZRrNHFccSFvf4Nm4qKo1VMSxXbou1irusiF4u/0rQ8nAira43yoS+EiBiqg6/OxYxjO7FVOW1N/0FM+O6Ji5Ts7MAAAAASUVORK5CYIIA"/>
+        </g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 279.4425,33.6787 C 239.3921,29.1276 196.6110,36.4094 158.3811,57.3449 C 58.2551,111.0488 20.9354,236.6614 75.5496,337.6976 C 128.3433,435.0929 248.4945,472.4125 347.7102,424.1700 L 245.7638,217.5464 L 279.4425,33.6787 " stroke="#0054A6" stroke-width="7.2819" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+          <path d="M 28.2173,8.1921 C 26.3968,5.4614 24.5764,1.8205 21.8457,1.8205 L 20.0252,2.7307 L 18.2047,12.7433 L 28.2173,18.2047 L 30.0378,17.2945 C 30.9480,14.5638 30.0378,10.9228 28.2173,8.1921 Z " fill="none" stroke="none"/>
+          <defs>
+            <clipPath id="clip-711845894">
+              <path d="M 28.2173,8.1921 C 26.3968,5.4614 24.5764,1.8205 21.8457,1.8205 L 20.0252,2.7307 L 18.2047,12.7433 L 28.2173,18.2047 L 30.0378,17.2945 C 30.9480,14.5638 30.0378,10.9228 28.2173,8.1921 Z"/>
+            </clipPath>
+          </defs>
+          <image width="13.6535" height="17.2945" x="17.2945" y="0.9102" clip-path="url(#clip-711845894)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAATCAYAAABPwleqAAAA1klEQVQ4jZWUXQ7DIAyDHRNC1bv1/sfZnhwFVtYNCfHC5zg/YNd1vfDnMjOQhP8KtNbg7iCZ+xFurSEi4O4pAOAZ7r3jOA703uHuuWV9C48xEoyISeBrZIGrgKyTBIBPWFargCJL4BY2s7y4EyCZAhO8Ak/WE1YbqsU7ARVtgt09oW8CdVi85ipLEbFNQfeyzyRvJ2kt3nmeaT0j15mV7Z3AVPWcllJFiSjKmntE3EdeX09t0cesm1nO6vTcSktUULlR7hRYz1VwrYkEuIK7U7+HxMYYeAMfMA0ttA87bwAAAABJRU5ErkJgggAA"/>
+        </g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 446.9259,128.3433 C 422.3496,81.9213 385.9401,28.2173 338.6078,17.2945 L 310.3905,35.4992 L 281.2630,193.8803 L 452.3873,286.7244 L 479.6944,268.5197 C 493.3480,224.8283 470.5921,172.0346 446.9259,128.3433 " stroke="#1A1A1A" stroke-width="7.2819" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+          <path d="M 30.0378,17.2945 C 31.8583,14.5638 31.8583,10.0126 30.0378,7.2819 C 28.2173,3.6409 24.5764,1.8205 21.8457,1.8205 L 20.0252,11.8331 L 30.0378,17.2945 Z " fill="none" stroke="none"/>
+          <defs>
+            <clipPath id="clip-404158660">
+              <path d="M 30.0378,17.2945 C 31.8583,14.5638 31.8583,10.0126 30.0378,7.2819 C 28.2173,3.6409 24.5764,1.8205 21.8457,1.8205 L 20.0252,11.8331 L 30.0378,17.2945 Z"/>
+            </clipPath>
+          </defs>
+          <image width="12.7433" height="16.3843" x="19.1150" y="0.9102" clip-path="url(#clip-404158660)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAAvUlEQVQ4jY3SWQ6EMAwD0MRZ7sj9DzLzgRyZ0tEUCbHJfSaqX9f1scPD3eeaJwEAFhEWEWdBAJaZFhET/hvMTKsqy8xzsaomxJMqgHvhnUStu+eZKgf0CAIYrbu36jaomi6g6qsqJ7hWpVpVIz6GoyEqKrMqw0mNL3WBVdbJ5lpzPixhVR+iu78CrL2qE2RNarvaqgKw5JQoqr7Wpurud5D7T0WVqVONiLsqw3qvV/0VqYvZAL/C2igirLvtC5WGCQiasPVEAAAAAElFTkSuQmCC"/>
+        </g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 479.6944,268.5197 C 501.5401,219.3669 502.4503,161.1118 474.2330,110.1386 C 445.1055,56.4346 393.2220,23.6661 337.6976,17.2945 L 308.5700,175.6756 L 479.6944,268.5197 " stroke="#1A1A1A" stroke-width="7.2819" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 380.4787,447.8362 C 383.2094,446.9259 407.7858,439.6440 410.5165,438.7338 C 451.4771,415.9779 461.4897,390.4913 479.6944,351.3511 L 318.5826,236.6614 L 294.0063,250.3149 L 380.4787,447.8362 Z " fill="#6CB33F" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 380.4787,447.8362 C 383.2094,446.9259 407.7858,439.6440 410.5165,438.7338 C 451.4771,415.9779 461.4897,390.4913 479.6944,351.3511 L 318.5826,236.6614 L 294.0063,250.3149 L 380.4787,447.8362 Z " stroke="#1A1A1A" stroke-width="7.2819" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 407.7858,438.7338 C 410.5165,437.8236 413.2472,436.9133 415.9779,435.0929 C 456.9385,413.2472 486.9763,378.6582 505.1810,339.5181 L 318.5826,238.4819 L 407.7858,438.7338 Z " fill="#6CB33F" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 407.7858,438.7338 C 410.5165,437.8236 413.2472,436.9133 415.9779,435.0929 C 456.9385,413.2472 486.9763,378.6582 505.1810,339.5181 L 318.5826,238.4819 L 407.7858,438.7338 Z " stroke="#1A1A1A" stroke-width="7.2819" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>

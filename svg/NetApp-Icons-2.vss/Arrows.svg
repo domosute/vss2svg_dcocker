@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64.8000000000" height="7.2000000000">
+  <title><![CDATA[Arrows]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M64.8238,-0.2534 L-0.0238,-0.2534" style="stroke-width: 0.0591; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M62.7894,1.7810 L64.8238,-0.2534 L62.7894,-2.0336" style="stroke-width: 0.0591; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M-0.0238,7.6300 L64.8238,7.6300" style="stroke-width: 0.0591; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M2.0106,9.4101 L-0.0238,7.6300 L2.0106,5.5956" style="stroke-width: 0.0591; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-15.4400" y="3.6883">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Arrows</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

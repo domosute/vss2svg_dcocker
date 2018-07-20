@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64.8000000000" height="7.2000000000">
+  <title><![CDATA[CT Scanner]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M70.9967,-41.4615 C70.9967,-62.6581 53.5966,-79.7419 32.4000,-79.7419 C11.2034,-79.7419 -6.1967,-62.6581 -6.1967,-41.4615 C-6.1967,-34.1851 -3.9822,-27.5414 -0.8185,-21.8468 C-0.8185,7.5753 -0.8185,7.5753 -0.8185,7.5753 C65.3021,7.5753 65.3021,7.5753 65.3021,7.5753 C65.3021,-21.8468 65.3021,-21.8468 65.3021,-21.8468 C68.7822,-27.5414 70.9967,-34.1851 70.9967,-41.4615 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M57.0766,-41.4615 C57.0766,-27.8577 46.0038,-16.7849 32.4000,-16.7849 C18.7962,-16.7849 7.7234,-27.8577 7.7234,-41.4615 C7.7234,-55.0653 18.7962,-66.1381 32.4000,-66.1381 C46.0038,-66.1381 57.0766,-55.0653 57.0766,-41.4615 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M57.0766,-41.4615 C57.0766,-27.8577 46.0038,-16.7849 32.4000,-16.7849 C18.7962,-16.7849 7.7234,-27.8577 7.7234,-41.4615 C7.7234,-55.0653 18.7962,-66.1381 32.4000,-66.1381 C46.0038,-66.1381 57.0766,-55.0653 57.0766,-41.4615 Z" style="stroke-width: 0.1181; stroke: #7f7f7f; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M48.5347,12.9536 L16.2653,12.9536 L16.2653,-14.8867 L48.5347,-14.8867 L48.5347,12.9536 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M48.5347,12.9536 L16.2653,12.9536 L16.2653,-14.8867 L48.5347,-14.8867 L48.5347,12.9536 Z" style="stroke-width: 0.0591; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M58.9748,-18.9995 L5.8252,-18.9995 L11.8362,-31.3378 L52.9638,-31.3378 L58.9748,-18.9995 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M58.9748,-18.9995 L5.8252,-18.9995 L11.8362,-31.3378 L52.9638,-31.3378 L58.9748,-18.9995 Z" style="stroke-width: 0.0591; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M58.9748,-14.2540 L5.8252,-14.2540 L5.8252,-18.6831 L58.9748,-18.6831 L58.9748,-14.2540 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M58.9748,-14.2540 L5.8252,-14.2540 L5.8252,-18.6831 L58.9748,-18.6831 L58.9748,-14.2540 Z" style="stroke-width: 0.0591; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-15.5000" y="17.9700">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+CT Scanner</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

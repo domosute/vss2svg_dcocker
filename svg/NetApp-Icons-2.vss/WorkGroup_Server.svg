@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="7.2000000000">
+  <title><![CDATA[WorkGroup Server]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.2116,3.1877 L-0.0116,3.1877 L2.1769,0.0873 L41.0231,0.0873 L43.2116,3.1877 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.2116,7.2000 L-0.0116,7.2000 L-0.0116,3.1877 L43.2116,3.1877 L43.2116,7.2000 Z" style="fill-rule: evenodd; fill: #333333; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.6973,5.1939 C23.6973,5.9234 22.7854,6.6529 21.5088,6.6529 C20.4146,6.6529 19.3203,5.9234 19.3203,5.1939 C19.3203,4.4644 20.4146,3.7349 21.5088,3.7349 C22.7854,3.7349 23.6973,4.4644 23.6973,5.1939 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.9249,6.8352 L1.4474,6.8352 L1.4474,3.5525 L8.9249,3.5525 L8.9249,6.8352 Z M34.2751,6.8352 L41.7526,6.8352 L41.7526,3.5525 L34.2751,3.5525 L34.2751,6.8352 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M42.1173,6.8352 C41.2054,6.8352 40.4759,6.1057 40.4759,5.1939 C40.4759,4.2820 41.2054,3.5525 42.1173,3.5525 C42.1173,6.8352 42.1173,6.8352 42.1173,6.8352 Z M1.0827,6.8352 C1.9946,6.8352 2.7241,6.1057 2.7241,5.1939 C2.7241,4.2820 1.9946,3.5525 1.0827,3.5525 C1.0827,6.8352 1.0827,6.8352 1.0827,6.8352 Z" style="fill-rule: evenodd; fill: #333333; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-8.9600" y="16.2000">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+WorkGroup Server</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="47.8488000000" height="32.4000000000">
+  <title><![CDATA[DOS App V1]]></title>
+  <g transform=" scale(1.000000) ">
+    <text xmlns="http://www.w3.org/2000/svg" x="11.0429" y="32.3999" transform="rotate(0.0002, 23.9244, 36.0999)">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+DOS App V1</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+    <g transform=" translate(23.9389, 15.8738)  scale(1, 1)  rotate(0.0002)  translate(-23.9389, -15.8738)  translate(-1.190300,-1.857000) ">
+      <!--emf-blob start-->
+      <g transform="translate(0.9332, 0.9332)">
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 18.6639,18.6639 L 18.6639,512.3239 L 733.4911,512.3239 L 733.4911,18.6639 L 18.6639,18.6639 Z" stroke-width="1px" stroke="#414042" fill="#414042"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 18.6639,512.3239 L 733.4911,512.3239 L 733.4911,18.6639 L 18.6639,18.6639 L 18.6639,512.3239 Z" stroke="#0054A6" stroke-width="22.3967" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 39.1942,41.0606 L 39.1942,82.1211 L 711.0944,82.1211 L 711.0944,41.0606 L 39.1942,41.0606 Z" stroke-width="1px" stroke="#FFFFFF" fill="#FFFFFF"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 674.6998,49.4593 L 674.6998,74.6556 L 699.8961,74.6556 L 699.8961,49.4593 L 674.6998,49.4593 Z" stroke-width="1px" stroke="#636466" fill="#636466"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+          <text font-family="Arial" fill="#FFFFFF" style="white-space:pre;" font-weight="400" text-anchor="start" x="4.6660" y="16.7975" font-size="12.1315"><![CDATA[C:\]]></text>
+        </g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>

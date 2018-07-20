@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64.8000000000" height="7.2000000000">
+  <title><![CDATA[SuperComputer]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M64.8327,-51.0931 L-0.0327,-51.0931 L1.6818,-53.9506 L62.8324,-53.9506 L64.8327,-51.0931 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M64.8327,-51.0931 L-0.0327,-51.0931 L-0.0327,7.2000 L64.8327,7.2000 L64.8327,-51.0931 Z" style="fill-rule: evenodd; fill: #333333; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M50.8309,-64.8091 L13.9691,-64.8091 L15.6836,-67.6666 L48.8307,-67.6666 L50.8309,-64.8091 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M50.8309,-64.8091 L13.9691,-64.8091 L13.9691,7.2000 L50.8309,7.2000 L50.8309,-64.8091 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.8294,-64.8091 L32.2571,-58.5226 L25.9706,-64.8091 L38.8294,-64.8091 Z" style="fill-rule: evenodd; fill: #333333; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-17.3561" y="13.0935">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+SuperComputer</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

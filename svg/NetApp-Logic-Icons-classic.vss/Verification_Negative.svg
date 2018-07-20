@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="31.1811000000" height="28.3465000000">
+  <title><![CDATA[Verification Negative]]></title>
+  <g transform=" scale(1.000000) ">
+    <text xmlns="http://www.w3.org/2000/svg" x="-5.0451" y="28.3465">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Verification Negative</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+    <g transform=" translate(-1.138600,-1.134800) ">
+      <!--emf-blob start-->
+      <g transform="translate(0.9565, 0.9565)">
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 256.3397,452.4204 L 278.3390,452.4204 C 397.9004,452.4204 495.4626,354.8583 495.4626,235.2969 C 495.4626,114.7790 397.9004,18.1733 278.3390,18.1733 C 278.3390,18.1733 278.3390,18.1733 278.3390,18.1733 L 278.3390,18.1733 L 235.2969,18.1733 C 114.7790,18.1733 18.1733,114.7790 18.1733,235.2969 C 18.1733,354.8583 114.7790,452.4204 235.2969,452.4204 L 235.2969,452.4204 L 256.3397,452.4204 Z " fill="#5195D0" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 256.3397,452.4204 L 278.3390,452.4204 C 397.9004,452.4204 495.4626,354.8583 495.4626,235.2969 C 495.4626,114.7790 397.9004,18.1733 278.3390,18.1733 C 278.3390,18.1733 278.3390,18.1733 278.3390,18.1733 L 278.3390,18.1733 L 235.2969,18.1733 C 114.7790,18.1733 18.1733,114.7790 18.1733,235.2969 C 18.1733,354.8583 114.7790,452.4204 235.2969,452.4204 L 235.2969,452.4204 L 256.3397,452.4204 Z " stroke="#0054A6" stroke-width="7.6519" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+          <path d="M 31.5642,15.3039 C 31.5642,7.6519 24.8688,1.9130 18.1733,1.9130 C 10.5214,1.9130 3.8260,7.6519 3.8260,15.3039 C 3.8260,22.9558 10.5214,28.6947 18.1733,28.6947 C 24.8688,28.6947 31.5642,22.9558 31.5642,15.3039 " fill="none" stroke="none"/>
+          <defs>
+            <clipPath id="clip-7684930">
+              <path d="M 31.5642,15.3039 C 31.5642,7.6519 24.8688,1.9130 18.1733,1.9130 C 10.5214,1.9130 3.8260,7.6519 3.8260,15.3039 C 3.8260,22.9558 10.5214,28.6947 18.1733,28.6947 C 24.8688,28.6947 31.5642,22.9558 31.5642,15.3039 Z"/>
+            </clipPath>
+          </defs>
+          <image width="27.7383" height="27.7383" x="3.8260" y="0.9565" clip-path="url(#clip-7684930)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAALUlEQVRIie3NMQ0AMAwDsGb8OacgJvWyCThtO8fedSiVSqVSqVQqlUqln5LMAlXXBDly/sMXAAAAAElFTkSuQmCC"/>
+          <image width="27.7383" height="27.7383" x="3.8260" y="0.9565" clip-path="url(#clip-7684930)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAB80lEQVRIibWW0XXDMAhFHzner4t1lq6TFbqEoR8G+YGQj9Om/NhRZC4PELbI19NgBlGD7ApRA/S4Slx3A0whO635/6Dn0prm/SB/jwDCDIcZBGS+LIbebPFjtR/AI4ADbMcDEvedB8O596YJbd5EdTgRNYcZgbtArHWW9nVmAd39zhw4gckbOyS1EvfkWeKelqNs24DZCmwQDZg7LGph3geUlZT+EtAmu7qjAvbrgCuo7gbh9DN4pfaMGZtoeUgtgdM9KJU1tbXuQ0ApKKKRxtqRyqp2qNZGZTheNSDqSQilUaMVmNOqnfMaCKc2fpNSaNSU1EZkmsFzEE26CcY+F0o9Gq5FSqmtg2CVmtMtqa4BjXMKirTUagIrA5p061z3DI1G4mayC7AWpTrXOdah/cw+j0woREkvn986p9t0U6kwq8yNFEppzElVy6ByrWsYU+xKKbd1aaY74PpfPZsztESUR+JFfRlS1rq0ntBd80oz7mI8tvXtmuwCmNMbeY1GIACA7DDq3QyM7G8BTY3k3HFmR108tdoor+AbttWNqQECwDVVS0Ek8E1rhgPyC3k1LIyOxQvArDSV1pbg+WX/Eq9AAzICoEFdZmv+JvoFFKrzfOSp1Lx5/mr0ljnshDiVwW+y3EjOmT4f32zTkflv+/78wA++01LdjTcSjAAAAABJRU5ErkJgggAA"/>
+        </g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 31.5642,15.3039 M 495.4626,235.2969 C 495.4626,114.7790 397.9004,18.1733 278.3390,18.1733 C 158.7776,18.1733 61.2155,114.7790 61.2155,235.2969 C 61.2155,354.8583 158.7776,452.4204 278.3390,452.4204 C 397.9004,452.4204 495.4626,354.8583 495.4626,235.2969 " stroke="#0054A6" stroke-width="7.6519" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 291.7299,275.4695 L 291.7299,314.6857 L 446.6815,314.6857 L 446.6815,275.4695 L 291.7299,275.4695 Z" stroke-width="1px" stroke="#FFFFFF" fill="#FFFFFF"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 446.6815,275.4695 L 291.7299,275.4695 L 291.7299,314.6857 L 446.6815,314.6857 L 446.6815,275.4695 Z" stroke="#0054A6" stroke-width="9.5649" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 373.9881,92.7797 L 329.0331,59.3025 L 176.9509,259.2092 L 124.3439,199.9067 L 82.2583,250.6008 L 175.9944,353.9018 L 373.9881,92.7797 Z" stroke-width="1px" stroke="#E6E6E6" fill="#E6E6E6"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 373.9881,92.7797 L 329.0331,59.3025 L 176.9509,259.2092 L 124.3439,199.9067 L 82.2583,250.6008 L 175.9944,353.9018 L 373.9881,92.7797 Z" stroke="#0054A6" stroke-width="9.5649" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>

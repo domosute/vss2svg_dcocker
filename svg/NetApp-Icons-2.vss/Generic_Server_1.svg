@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="42.1920000000" height="7.2000000000">
+  <title><![CDATA[Generic Server 1]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.2447,-68.9871 L0.0115,-68.9871 L0.0115,7.2000 L43.2447,7.2000 L43.2447,-68.9871 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0115,-32.7076 L43.2447,-32.7076" style="stroke-width: 0.0591; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M16.9420,-36.0332 L3.9418,-36.0332 L3.9418,-38.1495 L16.9420,-38.1495 L16.9420,-36.0332 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M39.3144,-2.4746 L3.9418,-2.4746 L3.9418,-27.2656 L39.3144,-27.2656 L39.3144,-2.4746 Z M39.3144,-42.0798 L3.9418,-42.0798 L3.9418,-48.7310 L39.3144,-48.7310 L39.3144,-42.0798 Z M39.3144,-50.2427 L3.9418,-50.2427 L3.9418,-56.8940 L39.3144,-56.8940 L39.3144,-50.2427 Z M39.3144,-58.7079 L3.9418,-58.7079 L3.9418,-65.3592 L39.3144,-65.3592 L39.3144,-58.7079 Z M43.2447,-68.9871 L0.0115,-68.9871 L2.4302,-72.3128 L40.8261,-72.3128 L43.2447,-68.9871 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-8.8766" y="13.5276">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Generic Server</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

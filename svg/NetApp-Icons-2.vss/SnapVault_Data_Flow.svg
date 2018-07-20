@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64.8000000000" height="7.2000000000">
+  <title><![CDATA[SnapVault Data Flow]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M20.2031,11.0491 L37.7344,11.0491 L37.7344,23.6132 L64.9079,3.4522 L37.7344,-16.4166 L37.7344,-3.5603 L20.2031,-3.5603 L20.2031,11.0491 Z M4.7171,11.0491 L0.0421,11.0491 L0.0421,-3.5603 L4.7171,-3.5603 L4.7171,11.0491 Z M11.4374,11.0491 L6.7624,11.0491 L6.7624,-3.5603 L11.4374,-3.5603 L11.4374,11.0491 Z M18.1578,11.0491 L13.4827,11.0491 L13.4827,-3.5603 L18.1578,-3.5603 L18.1578,11.0491 Z" style="fill-rule: evenodd; fill: #f07600; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-17.4950" y="29.2200">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+SnapVault Data Flow</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

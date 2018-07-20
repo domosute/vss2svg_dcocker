@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="53.8583000000" height="43.3633000000">
+  <title><![CDATA[Router]]></title>
+  <g transform=" scale(1.000000) ">
+    <text xmlns="http://www.w3.org/2000/svg" x="20.1758" y="43.3633">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Router</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+    <g transform=" translate(-1.149200,-1.141800) ">
+      <!--emf-blob start-->
+      <g transform="translate(0.9682, 0.9682)">
+        <path d="M 1.9364,18.3954 L 1.9364,26.1408 C 1.9364,35.8226 13.5545,43.5680 28.0771,43.5680 C 41.6316,43.5680 54.2179,35.8226 54.2179,26.1408 C 54.2179,26.1408 54.2179,26.1408 54.2179,26.1408 L 54.2179,26.1408 L 54.2179,18.3954 C 54.2179,9.6818 41.6316,1.9364 28.0771,1.9364 C 13.5545,1.9364 1.9364,9.6818 1.9364,18.3954 Z " fill="none" stroke="none"/>
+        <defs>
+          <clipPath id="clip-1433102829">
+            <path d="M 1.9364,18.3954 L 1.9364,26.1408 C 1.9364,35.8226 13.5545,43.5680 28.0771,43.5680 C 41.6316,43.5680 54.2179,35.8226 54.2179,26.1408 C 54.2179,26.1408 54.2179,26.1408 54.2179,26.1408 L 54.2179,26.1408 L 54.2179,18.3954 C 54.2179,9.6818 41.6316,1.9364 28.0771,1.9364 C 13.5545,1.9364 1.9364,9.6818 1.9364,18.3954 Z"/>
+          </clipPath>
+        </defs>
+        <image width="52.2816" height="42.5998" x="0.9682" y="0.9682" clip-path="url(#clip-1433102829)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAsCAYAAAAuCEsgAAABJ0lEQVRogd2YURLCMAhEH5Aj9f5X0w8nzjhqbSsJkL2AvLILGNm27caCagCtteg63PUkMjNUNbIWV720SlWXgfvowRWs+ZXAzBCRmbW4arc1la3503OqipnNqMVVh8NULXenqq1kzdNtUNUSQ+WSvyp07nJwVDV17v6uLKs1XT55xmXu5qVsuXMNiYikWebu6e9w0dYcNtai4YbO60hrDl9EUXDTNuzsZT7112a+q0y/iWZZM+TYE5HhnQu9YkfmLvw8H7XvwsFgzFBJAQb+R3QasC6v3KUDA5/cpQSD/62ZFgwe++6qNVODdV2BKwEG561ZBgzOwZUCg+N3ZjkwOPZYWxKsa++xtjQYfF/m5cHg81BZAgze/5kvA9bVWntMzuhCRsjMuAPA2QRauI+1DgAAAABJRU5ErkJgggAA"/>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 18.3954,294.3260 L 18.3954,414.3800 C 18.3954,567.3521 205.2536,690.3106 435.6799,690.3106 C 666.1062,690.3106 852.9645,567.3521 852.9645,414.3800 C 852.9645,414.3800 852.9645,414.3800 852.9645,414.3800 L 852.9645,414.3800 L 852.9645,294.3260 C 852.9645,142.3221 666.1062,18.3954 435.6799,18.3954 C 205.2536,18.3954 18.3954,142.3221 18.3954,294.3260 " stroke="#0054A6" stroke-width="9.6818" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+          <path d="M 54.2179,18.3954 C 54.2179,9.6818 41.6316,1.9364 28.0771,1.9364 C 13.5545,1.9364 1.9364,9.6818 1.9364,18.3954 C 1.9364,28.0771 13.5545,35.8226 28.0771,35.8226 C 41.6316,35.8226 54.2179,28.0771 54.2179,18.3954 " fill="none" stroke="none"/>
+          <defs>
+            <clipPath id="clip-1887658390">
+              <path d="M 54.2179,18.3954 C 54.2179,9.6818 41.6316,1.9364 28.0771,1.9364 C 13.5545,1.9364 1.9364,9.6818 1.9364,18.3954 C 1.9364,28.0771 13.5545,35.8226 28.0771,35.8226 C 41.6316,35.8226 54.2179,28.0771 54.2179,18.3954 Z"/>
+            </clipPath>
+          </defs>
+          <image width="52.2816" height="34.8544" x="0.9682" y="0.9682" clip-path="url(#clip-1887658390)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAkCAYAAADCW8lNAAABl0lEQVRYhd3X4Y7CIBAEYEp8/wfoy979wlBud3ZmgVaPxAhE634MVD3O8/wp/6Adx3EZvx6qQ2pj0dG4lA+EtSL7Yr0+mnscNkIQjEWV8hCsL/TrYRFGhXmg1rbDxuJVmHLW+rYNZiGssdW3nlHfmlsOQyCE7OfHOQsSjZfBItCu5KzxMpiFUKEfBVsBmrlLboFFKAVrYW6HtYvUWiVMrTVEMcl52ClYNiU2PQuzHeYV15JQE4zmM7B+TMFWYLLnjgFayBBmoVCRq5OzkNMwtuhVyTEoZhvKsLsTZJOTYEyRuxNkYCMIwtQVZFGr0kvBlG11Z4IsrI1hYl4q7Cp7qB3Jjf0LjN3b3uuYBBmU9/MrDUO4TIIsik0QLbgLQyuS6bOLEN1s2OSoxMb+DG5XgjQs2sNZkJqoege1gG8Yk5KSKANgk4qgEGYVnYVY78mi0Va13td/xmUrMkl56akLkUV72PF69P8xpWhmcbzCEU75WvhzxsYiZhqbODrDKFEP+4YhzMwcaugaSqLe47Uasyt9q1nQluAvac4O6YafN7YAAAAASUVORK5CYIIA"/>
+        </g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 54.2179,18.3954 M 852.9645,294.3260 C 852.9645,142.3221 666.1062,18.3954 435.6799,18.3954 C 205.2536,18.3954 18.3954,142.3221 18.3954,294.3260 C 18.3954,447.2980 205.2536,571.2248 435.6799,571.2248 C 666.1062,571.2248 852.9645,447.2980 852.9645,294.3260 " stroke="#0054A6" stroke-width="9.6818" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 482.1524,240.1080 L 547.0203,129.7358 L 588.6520,140.3858 L 559.6066,70.6770 L 466.6616,109.4041 L 508.2932,120.0540 L 442.4572,229.4581 C 438.5844,237.2035 443.4253,244.9489 455.0435,247.8535 C 465.6934,250.7580 477.3116,246.8853 482.1524,240.1080 Z " fill="#0054A6" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 482.1524,240.1080 L 547.0203,129.7358 L 588.6520,140.3858 L 559.6066,70.6770 L 466.6616,109.4041 L 508.2932,120.0540 L 442.4572,229.4581 C 438.5844,237.2035 443.4253,244.9489 455.0435,247.8535 C 465.6934,250.7580 477.3116,246.8853 482.1524,240.1080 Z " stroke="#333333" stroke-width="5.8091" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 530.5613,303.0396 C 519.9114,300.1351 507.3251,303.0396 503.4523,310.7850 C 499.5796,317.5622 504.4205,325.3077 515.0705,328.2122 L 679.6607,369.8438 L 663.2016,396.9528 L 768.7330,378.5574 L 710.6423,317.5622 L 695.1515,344.6712 L 530.5613,303.0396 Z " fill="#0054A6" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 530.5613,303.0396 C 519.9114,300.1351 507.3251,303.0396 503.4523,310.7850 C 499.5796,317.5622 504.4205,325.3077 515.0705,328.2122 L 679.6607,369.8438 L 663.2016,396.9528 L 768.7330,378.5574 L 710.6423,317.5622 L 695.1515,344.6712 L 530.5613,303.0396 Z " stroke="#333333" stroke-width="5.8091" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 388.2392,332.0849 L 314.6577,456.0116 L 273.9943,445.3617 L 303.0396,515.0705 L 395.0165,476.3434 L 354.3530,465.6934 L 427.9345,341.7667 C 431.8072,334.9894 426.9663,327.2440 416.3164,324.3395 C 404.6982,321.4350 393.0801,325.3077 388.2392,332.0849 Z " fill="#0054A6" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 388.2392,332.0849 L 314.6577,456.0116 L 273.9943,445.3617 L 303.0396,515.0705 L 395.0165,476.3434 L 354.3530,465.6934 L 427.9345,341.7667 C 431.8072,334.9894 426.9663,327.2440 416.3164,324.3395 C 404.6982,321.4350 393.0801,325.3077 388.2392,332.0849 Z " stroke="#333333" stroke-width="5.8091" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 344.6712,282.7079 C 356.2894,285.6124 367.9075,281.7397 371.7802,274.9624 C 376.6211,267.2170 370.8120,259.4716 360.1621,256.5671 L 184.9219,212.0309 L 201.3809,184.9219 L 95.8496,203.3173 L 153.9402,264.3125 L 169.4311,238.1717 L 344.6712,282.7079 Z " fill="#0054A6" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 344.6712,282.7079 C 356.2894,285.6124 367.9075,281.7397 371.7802,274.9624 C 376.6211,267.2170 370.8120,259.4716 360.1621,256.5671 L 184.9219,212.0309 L 201.3809,184.9219 L 95.8496,203.3173 L 153.9402,264.3125 L 169.4311,238.1717 L 344.6712,282.7079 Z " stroke="#333333" stroke-width="5.8091" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="7.2000000000">
+  <title><![CDATA[Cylinder/Volume]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1006">
+      <defs>
+        <linearGradient id="grad4">
+          <stop offset="0%" stop-color="#cdcdcd" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#1a1a1a" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M44.6315,4.9087 C44.6315,7.5661 34.2969,11.7000 21.6000,11.7000 C8.9031,11.7000 -1.4315,7.5661 -1.4315,4.9087 C-1.4315,-35.5441 -1.4315,-35.5441 -1.4315,-35.5441 C-1.4315,-32.8866 8.9031,-30.8197 21.6000,-30.8197 C34.2969,-30.8197 44.6315,-32.8866 44.6315,-35.5441 C44.6315,4.9087 44.6315,4.9087 44.6315,4.9087 Z" style="stroke-width: 0.0000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad4); "/>
+      <path d="  M44.6315,4.9087 C44.6315,7.5661 34.2969,11.7000 21.6000,11.7000 C8.9031,11.7000 -1.4315,7.5661 -1.4315,4.9087 C-1.4315,-35.5441 -1.4315,-35.5441 -1.4315,-35.5441 C-1.4315,-32.8866 8.9031,-30.8197 21.6000,-30.8197 C34.2969,-30.8197 44.6315,-32.8866 44.6315,-35.5441 C44.6315,4.9087 44.6315,4.9087 44.6315,4.9087 Z" style="stroke-width: 0.0000; stroke: #c0c0c0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1007">
+      <path d="  M44.6315,-35.5441 C44.6315,-32.8866 34.2969,-30.8197 21.6000,-30.8197 C8.9031,-30.8197 -1.4315,-32.8866 -1.4315,-35.5441 C-1.4315,-38.2016 8.9031,-40.5638 21.6000,-40.5638 C34.2969,-40.5638 44.6315,-38.2016 44.6315,-35.5441 Z" style="stroke-width: 0.0240; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #b3b3b3; "/>
+      <path d="  M44.6315,-35.5441 C44.6315,-32.8866 34.2969,-30.8197 21.6000,-30.8197 C8.9031,-30.8197 -1.4315,-32.8866 -1.4315,-35.5441 C-1.4315,-38.2016 8.9031,-40.5638 21.6000,-40.5638 C34.2969,-40.5638 44.6315,-38.2016 44.6315,-35.5441 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <text xmlns="http://www.w3.org/2000/svg" x="-10.0314" y="17.6786">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Cylinder/Volume</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

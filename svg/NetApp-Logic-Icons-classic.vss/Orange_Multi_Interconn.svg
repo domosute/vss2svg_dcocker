@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="43.2000000000">
+  <title><![CDATA[Orange.Multi Interconn]]></title>
+  <g transform=" scale(1.000000) ">
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <marker id="startMarker2" markerUnits="strokeWidth" orient="auto" markerWidth="8" markerHeight="6" viewBox="0 0 10 10" refX="9" refY="5">
+        <polyline points="10,0 0,5 10,10 9,5" fill="solid"/>
+      </marker>
+    </defs>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <marker id="endMarker2" markerUnits="strokeWidth" orient="auto" markerWidth="8" markerHeight="6" viewBox="0 0 10 10" refX="1" refY="5">
+        <polyline points="0,0 10,5 0,10 1,5" fill="solid"/>
+      </marker>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0000,0.0000 L43.2000,0.0000 L43.2000,43.2000" style="stroke-width: 0.3120; stroke: #f9461b; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; marker-start: url(#startMarker2); marker-end: url(#endMarker2); "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

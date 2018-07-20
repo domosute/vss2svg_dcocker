@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="14.4000000000" height="7.2000000000">
+  <title><![CDATA[Set Top Box]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M14.4141,6.1934 L-0.0141,6.1934 L1.9991,0.1537 L12.4009,0.1537 L14.4141,6.1934 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.0720,5.1868 L1.3280,5.1868 L1.3280,-41.7889 L13.0720,-41.7889 L13.0720,5.1868 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.0720,-41.7889 L1.3280,-41.7889 L3.0057,-46.4865 L11.3943,-46.4865 L13.0720,-41.7889 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.0720,-41.7889 L1.3280,-41.7889 L3.0057,-46.4865 L11.3943,-46.4865 L13.0720,-41.7889 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M14.4141,6.1934 L-0.0141,6.1934 L-0.0141,7.2000 L14.4141,7.2000 L14.4141,6.1934 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.7099,-22.9986 C8.7099,-21.3209 8.0389,-19.9788 7.0322,-19.9788 C6.3611,-19.9788 5.6901,-21.3209 5.6901,-22.9986 C5.6901,-25.0119 6.3611,-26.3540 7.0322,-26.3540 C8.0389,-26.3540 8.7099,-25.0119 8.7099,-22.9986 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.0389,-29.3739 C8.0389,-28.7028 7.7033,-27.6962 7.0322,-27.6962 C6.6967,-27.6962 6.3611,-28.7028 6.3611,-29.3739 C6.3611,-30.3805 6.6967,-31.0516 7.0322,-31.0516 C7.7033,-31.0516 8.0389,-30.3805 8.0389,-29.3739 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.0389,-34.0715 C8.0389,-33.0649 7.7033,-32.3938 7.0322,-32.3938 C6.6967,-32.3938 6.3611,-33.0649 6.3611,-34.0715 C6.3611,-34.7426 6.6967,-35.4136 7.0322,-35.4136 C7.7033,-35.4136 8.0389,-34.7426 8.0389,-34.0715 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.0720,5.1868 L1.3280,5.1868 L1.3280,-0.5174 L13.0720,-0.5174 L13.0720,5.1868 Z" style="fill-rule: evenodd; fill: #333333; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-8.6000" y="18.5400">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Set Top Box</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

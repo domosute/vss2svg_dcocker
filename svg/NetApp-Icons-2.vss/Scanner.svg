@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64.8000000000" height="7.2000000000">
+  <title><![CDATA[Scanner]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M64.8937,0.9205 L-0.0937,0.9205 L3.2885,-3.6697 L61.5115,-3.6697 L64.8937,0.9205 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M64.8937,-8.9847 L-0.0937,-8.9847 L3.2885,-4.1529 L61.5115,-4.1529 L64.8937,-8.9847 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M61.0283,0.4373 L3.7717,0.4373 L6.4292,-3.1865 L58.3708,-3.1865 L61.0283,0.4373 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M64.8937,7.2018 L-0.0937,7.2018 L-0.0937,0.9205 L64.8937,0.9205 L64.8937,7.2018 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.2456,3.8195 L31.5544,3.8195 L31.5544,0.9205 L33.2456,0.9205 L33.2456,3.8195 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.5942,-9.7094 C36.6278,-10.4342 34.6951,-11.1590 32.2792,-11.1590 C30.1049,-11.1590 28.1722,-10.4342 27.2058,-9.7094 C-0.0937,-9.7094 -0.0937,-9.7094 -0.0937,-9.7094 C-0.0937,-8.9847 -0.0937,-8.9847 -0.0937,-8.9847 C64.8937,-8.9847 64.8937,-8.9847 64.8937,-8.9847 C64.8937,-9.7094 64.8937,-9.7094 64.8937,-9.7094 C37.5942,-9.7094 37.5942,-9.7094 37.5942,-9.7094 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.9460,7.2018 C5.9460,7.9266 5.2212,8.4097 4.2549,8.4097 C3.2885,8.4097 2.5637,7.9266 2.5637,7.2018 C2.5637,6.4770 3.2885,5.7523 4.2549,5.7523 C5.2212,5.7523 5.9460,6.4770 5.9460,7.2018 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M62.2363,7.2018 C62.2363,7.9266 61.5115,8.4097 60.5451,8.4097 C59.5788,8.4097 58.8540,7.9266 58.8540,7.2018 C58.8540,6.4770 59.5788,5.7523 60.5451,5.7523 C61.5115,5.7523 62.2363,6.4770 62.2363,7.2018 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-16.4390" y="12.3030">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Scanner</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

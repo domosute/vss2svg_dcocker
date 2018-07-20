@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="36.0000000000" height="7.2000000000">
+  <title><![CDATA[Television]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M36.0153,7.2000 L-0.0153,7.2000 L-0.0153,2.3666 L36.0153,2.3666 L36.0153,7.2000 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M36.0153,1.0484 L-0.0153,1.0484 L-0.0153,-24.4367 L36.0153,-24.4367 L36.0153,1.0484 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.5001,-2.4668 L3.9393,-2.4668 L3.9393,-20.9215 L32.5001,-20.9215 L32.5001,-2.4668 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M36.0153,-24.4367 L-0.0153,-24.4367 L4.8181,-31.4670 L31.1819,-31.4670 L36.0153,-24.4367 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M36.0153,-24.4367 L-0.0153,-24.4367 L4.8181,-31.4670 L31.1819,-31.4670 L36.0153,-24.4367 Z" style="stroke-width: 0.0591; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-7.1600" y="12.5100">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Television</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

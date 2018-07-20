@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="7.2000000000">
+  <title><![CDATA[SpinServer]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1006">
+      <path d="  M43.2281,-4.2958 L0.0281,-4.2958 L1.7881,-6.9945 L41.3081,-6.9945 L43.2281,-4.2958 Z" style="stroke-width: 0.0240; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #988db1; "/>
+      <path d="  M43.2281,-4.2958 L0.0281,-4.2958 L1.7881,-6.9945 L41.3081,-6.9945 L43.2281,-4.2958 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1007">
+      <path d="  M43.2354,7.2281 L43.2354,-4.2958 L0.0208,-4.2958 L0.0208,7.2281 L43.2354,7.2281 Z" style="stroke-width: 0.0240; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #171868; "/>
+      <path d="  M43.2354,7.2281 L43.2354,-4.2958 L0.0208,-4.2958 L0.0208,7.2281 L43.2354,7.2281 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.8958,6.3834 L36.3753,6.3834 L36.3753,-1.5570 L37.8958,-1.5570 L37.8958,6.3834 Z M35.5306,6.3834 L34.1790,6.3834 L34.1790,-1.5570 L35.5306,-1.5570 L35.5306,6.3834 Z M33.3343,6.3834 L31.8138,6.3834 L31.8138,-1.5570 L33.3343,-1.5570 L33.3343,6.3834 Z M30.9691,6.3834 L29.6175,6.3834 L29.6175,-1.5570 L30.9691,-1.5570 L30.9691,6.3834 Z M42.1194,4.6940 L40.9368,4.6940 L40.9368,-1.5570 L42.1194,-1.5570 L42.1194,4.6940 Z M25.9007,6.3834 L18.9740,6.3834 L18.9740,-0.8812 L25.9007,-0.8812 L25.9007,6.3834 Z M18.4672,6.3834 L11.5404,6.3834 L11.5404,-0.8812 L18.4672,-0.8812 L18.4672,6.3834 Z M11.0336,6.3834 L4.2758,6.3834 L4.2758,-0.8812 L11.0336,-0.8812 L11.0336,6.3834 Z M2.0795,4.6940 L0.8969,4.6940 L0.8969,-1.5570 L2.0795,-1.5570 L2.0795,4.6940 Z" style="fill-rule: evenodd; fill: #8275a3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.3578,5.5387 L4.9516,5.5387 L4.9516,5.0318 L10.3578,5.0318 L10.3578,5.5387 Z M17.7914,5.5387 L12.3851,5.5387 L12.3851,5.0318 L17.7914,5.0318 L17.7914,5.5387 Z M25.0560,5.5387 L19.6498,5.5387 L19.6498,5.0318 L25.0560,5.0318 L25.0560,5.5387 Z" style="fill-rule: evenodd; fill: #171868; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="11.7579" y="10.8024">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+SpinServer</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

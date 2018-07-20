@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="36.0000000000" height="7.2000000000">
+  <title><![CDATA[Desktop]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M29.8193,4.1073 L6.1807,4.1073 L6.1807,-0.4545 L29.8193,-0.4545 L29.8193,4.1073 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.9664,-1.6987 L2.0336,-1.6987 L2.0336,-25.7520 L33.9664,-25.7520 L33.9664,-1.6987 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M30.2340,-5.0164 L5.7660,-5.0164 L5.7660,-22.4343 L30.2340,-22.4343 L30.2340,-5.0164 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.9664,2.4484 L2.0336,2.4484 L-0.0400,6.1809 L-0.0400,7.4250 L36.0400,7.4250 L36.0400,6.1809 L33.9664,2.4484 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.9664,-25.7520 L2.0336,-25.7520 L6.5954,-32.3874 L29.4046,-32.3874 L33.9664,-25.7520 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.9664,-25.7520 L2.0336,-25.7520 L6.5954,-32.3874 L29.4046,-32.3874 L33.9664,-25.7520 Z" style="stroke-width: 0.0591; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M-0.0400,6.1809 L-0.0400,7.4250 L36.0400,7.4250 L36.0400,6.1809 L-0.0400,6.1809 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-6.2600" y="13.0950">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Desktop</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

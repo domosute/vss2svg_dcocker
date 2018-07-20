@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="94.1143000000" height="7.2000000000">
+  <title><![CDATA[Linked Cylinders/Volumes]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M100.9385,-21.9607 C100.9385,-7.0517 75.1866,4.8755 43.2000,4.8755 C11.2134,4.8755 -14.5385,-7.0517 -14.5385,-21.9607 C-14.5385,-36.5986 11.2134,-48.7969 43.2000,-48.7969 C75.1866,-48.7969 100.9385,-36.5986 100.9385,-21.9607 Z" style="stroke-width: 0.0591; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1010">
+      <defs>
+        <linearGradient id="grad6">
+          <stop offset="0%" stop-color="#cdcdcd" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#1a1a1a" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M26.1224,19.7845 C26.1224,22.2242 20.4299,24.3927 13.1109,24.3927 C6.0630,24.3927 0.0994,22.2242 0.0994,19.7845 C0.0994,-12.2021 0.0994,-12.2021 0.0994,-12.2021 C0.0994,-9.4913 6.0630,-7.5938 13.1109,-7.5938 C20.4299,-7.5938 26.1224,-9.4913 26.1224,-12.2021 C26.1224,19.7845 26.1224,19.7845 26.1224,19.7845 Z" style="stroke-width: 0.0000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad6); "/>
+      <path d="  M26.1224,19.7845 C26.1224,22.2242 20.4299,24.3927 13.1109,24.3927 C6.0630,24.3927 0.0994,22.2242 0.0994,19.7845 C0.0994,-12.2021 0.0994,-12.2021 0.0994,-12.2021 C0.0994,-9.4913 6.0630,-7.5938 13.1109,-7.5938 C20.4299,-7.5938 26.1224,-9.4913 26.1224,-12.2021 C26.1224,19.7845 26.1224,19.7845 26.1224,19.7845 Z" style="stroke-width: 0.0000; stroke: #c0c0c0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1011">
+      <path d="  M26.1224,-12.2021 C26.1224,-9.4913 20.4299,-7.5938 13.1109,-7.5938 C6.0630,-7.5938 0.0994,-9.4913 0.0994,-12.2021 C0.0994,-14.6417 6.0630,-16.8103 13.1109,-16.8103 C20.4299,-16.8103 26.1224,-14.6417 26.1224,-12.2021 Z" style="stroke-width: 0.0240; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #b3b3b3; "/>
+      <path d="  M26.1224,-12.2021 C26.1224,-9.4913 20.4299,-7.5938 13.1109,-7.5938 C6.0630,-7.5938 0.0994,-9.4913 0.0994,-12.2021 C0.0994,-14.6417 6.0630,-16.8103 13.1109,-16.8103 C20.4299,-16.8103 26.1224,-14.6417 26.1224,-12.2021 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1012">
+      <defs>
+        <linearGradient id="grad7">
+          <stop offset="0%" stop-color="#cdcdcd" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#1a1a1a" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M86.3006,19.7845 C86.3006,22.2242 80.3370,24.3927 73.0180,24.3927 C65.9701,24.3927 60.0065,22.2242 60.0065,19.7845 C60.0065,-12.2021 60.0065,-12.2021 60.0065,-12.2021 C60.0065,-9.4913 65.9701,-7.5938 73.0180,-7.5938 C80.3370,-7.5938 86.3006,-9.4913 86.3006,-12.2021 C86.3006,19.7845 86.3006,19.7845 86.3006,19.7845 Z" style="stroke-width: 0.0000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad7); "/>
+      <path d="  M86.3006,19.7845 C86.3006,22.2242 80.3370,24.3927 73.0180,24.3927 C65.9701,24.3927 60.0065,22.2242 60.0065,19.7845 C60.0065,-12.2021 60.0065,-12.2021 60.0065,-12.2021 C60.0065,-9.4913 65.9701,-7.5938 73.0180,-7.5938 C80.3370,-7.5938 86.3006,-9.4913 86.3006,-12.2021 C86.3006,19.7845 86.3006,19.7845 86.3006,19.7845 Z" style="stroke-width: 0.0000; stroke: #c0c0c0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1013">
+      <path d="  M86.3006,-12.2021 C86.3006,-9.4913 80.3370,-7.5938 73.0180,-7.5938 C65.9701,-7.5938 60.0065,-9.4913 60.0065,-12.2021 C60.0065,-14.6417 65.9701,-16.8103 73.0180,-16.8103 C80.3370,-16.8103 86.3006,-14.6417 86.3006,-12.2021 Z" style="stroke-width: 0.0240; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #b3b3b3; "/>
+      <path d="  M86.3006,-12.2021 C86.3006,-9.4913 80.3370,-7.5938 73.0180,-7.5938 C65.9701,-7.5938 60.0065,-9.4913 60.0065,-12.2021 C60.0065,-14.6417 65.9701,-16.8103 73.0180,-16.8103 C80.3370,-16.8103 86.3006,-14.6417 86.3006,-12.2021 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1014">
+      <defs>
+        <linearGradient id="grad8">
+          <stop offset="0%" stop-color="#cdcdcd" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#1a1a1a" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M56.2115,-31.9904 C56.2115,-29.5507 50.2479,-27.3821 43.2000,-27.3821 C35.8810,-27.3821 30.1885,-29.5507 30.1885,-31.9904 C30.1885,-63.9770 30.1885,-63.9770 30.1885,-63.9770 C30.1885,-61.2662 35.8810,-59.3687 43.2000,-59.3687 C50.2479,-59.3687 56.2115,-61.2662 56.2115,-63.9770 C56.2115,-31.9904 56.2115,-31.9904 56.2115,-31.9904 Z" style="stroke-width: 0.0000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad8); "/>
+      <path d="  M56.2115,-31.9904 C56.2115,-29.5507 50.2479,-27.3821 43.2000,-27.3821 C35.8810,-27.3821 30.1885,-29.5507 30.1885,-31.9904 C30.1885,-63.9770 30.1885,-63.9770 30.1885,-63.9770 C30.1885,-61.2662 35.8810,-59.3687 43.2000,-59.3687 C50.2479,-59.3687 56.2115,-61.2662 56.2115,-63.9770 C56.2115,-31.9904 56.2115,-31.9904 56.2115,-31.9904 Z" style="stroke-width: 0.0000; stroke: #c0c0c0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1015">
+      <path d="  M56.2115,-63.9770 C56.2115,-61.2662 50.2479,-59.3687 43.2000,-59.3687 C35.8810,-59.3687 30.1885,-61.2662 30.1885,-63.9770 C30.1885,-66.4166 35.8810,-68.5852 43.2000,-68.5852 C50.2479,-68.5852 56.2115,-66.4166 56.2115,-63.9770 Z" style="stroke-width: 0.0240; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #b3b3b3; "/>
+      <path d="  M56.2115,-63.9770 C56.2115,-61.2662 50.2479,-59.3687 43.2000,-59.3687 C35.8810,-59.3687 30.1885,-61.2662 30.1885,-63.9770 C30.1885,-66.4166 35.8810,-68.5852 43.2000,-68.5852 C50.2479,-68.5852 56.2115,-66.4166 56.2115,-63.9770 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <text xmlns="http://www.w3.org/2000/svg" x="-20.5430" y="31.6281">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Linked Cylinders/Volumes</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="7.2000000000">
+  <title><![CDATA[Router]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1005">
+      <defs>
+        <linearGradient id="grad3">
+          <stop offset="0%" stop-color="#7f7f7f" stop-opacity="1.0000"/>
+          <stop offset="50%" stop-color="#b3b3b3" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#7f7f7f" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M42.9787,7.8075 C43.2029,-2.5478 43.2029,-2.5478 43.2029,-2.5478 C0.3796,-2.5478 0.3796,-2.5478 0.3796,-2.5478 C0.3796,-2.5478 0.2675,2.7424 0.2115,5.3875 C0.1554,8.0326 0.1554,8.0326 0.2302,8.5758 C0.4864,13.8499 9.9778,17.9520 21.6792,17.9377 C33.3379,17.9377 42.9787,13.8856 42.9787,8.9331 C43.0001,8.5150 42.9680,8.3864 42.9787,7.8075 Z" style="stroke-width: 0.0000; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad3); "/>
+      <path d="  M42.9787,7.8075 C43.2029,-2.5478 43.2029,-2.5478 43.2029,-2.5478 C0.3796,-2.5478 0.3796,-2.5478 0.3796,-2.5478 C0.3796,-2.5478 0.2675,2.7424 0.2115,5.3875 C0.1554,8.0326 0.1554,8.0326 0.2302,8.5758 C0.4864,13.8499 9.9778,17.9520 21.6792,17.9377 C33.3379,17.9377 42.9787,13.8856 42.9787,8.9331 C43.0001,8.5150 42.9680,8.3864 42.9787,7.8075 Z" style="stroke-width: 0.0000; stroke: #c0c0c0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.2029,-2.7729 C43.2029,2.4048 33.5230,6.4568 21.8170,6.4568 C9.8859,6.4568 0.4311,2.4048 0.4311,-2.7729 C0.4311,-7.7254 9.8859,-11.7775 21.8170,-11.7775 C33.5230,-11.7775 43.2029,-7.7254 43.2029,-2.7729 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.2029,-2.7729 C43.2029,2.4048 33.5230,6.4568 21.8170,6.4568 C9.8859,6.4568 0.4311,2.4048 0.4311,-2.7729 C0.4311,-7.7254 9.8859,-11.7775 21.8170,-11.7775 C33.5230,-11.7775 43.2029,-7.7254 43.2029,-2.7729 Z" style="stroke-width: 0.0240; stroke: #ffffff; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M29.6961,-9.0761 L24.2933,-7.0501 L26.3193,-6.8250 L22.2673,-3.2231 L24.0682,-2.9980 L28.1202,-6.5998 L30.1463,-6.1496 L29.9212,-9.0761 L29.6961,-9.0761 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M14.8385,4.4308 L20.2412,2.4048 L18.2152,2.1796 L22.2673,-1.1971 L20.4663,-1.4222 L16.4143,1.9545 L14.3882,1.7294 L14.6134,4.4308 L14.8385,4.4308 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M18.2152,-3.2231 L16.1892,-5.4743 L14.8385,-4.1236 L9.2106,-5.0240 L7.8599,-3.8985 L13.4878,-2.9980 L12.1371,-1.8724 L17.9901,-3.2231 L18.2152,-3.2231 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.5444,-1.6473 L28.5705,0.6038 L29.9212,-0.7469 L35.5490,0.1536 L36.8997,-0.9720 L31.2719,-1.8724 L32.6225,-2.9980 L26.5444,-1.6473 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-8.1686" y="21.7115">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Router</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="36.0000000000" height="7.2000000000">
+  <title><![CDATA[Laptop]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.9664,2.6382 L2.0336,2.6382 L2.0336,-21.8299 L33.9664,-21.8299 L33.9664,2.6382 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M30.6487,-0.6795 L5.7660,-0.6795 L5.7660,-18.5122 L30.6487,-18.5122 L30.6487,-0.6795 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.9664,2.6382 L2.4483,2.6382 L-0.0400,5.9559 L-0.0400,7.2000 L36.0400,7.2000 L36.0400,5.9559 L33.9664,2.6382 Z" style="fill-rule: evenodd; fill: #b3b3b3; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M-0.0400,5.9559 L-0.0400,7.2000 L36.0400,7.2000 L36.0400,5.9559 L-0.0400,5.9559 Z" style="fill-rule: evenodd; fill: #7f7f7f; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-6.9800" y="13.3200">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Laptop</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

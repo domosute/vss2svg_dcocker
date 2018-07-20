@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="47.8488000000" height="32.4000000000">
+  <title><![CDATA[App Virtualisation V1]]></title>
+  <g transform=" scale(1.000000) ">
+    <!--converted by libvisio2svg-->
+    <g transform=" translate(23.9365, 15.8738)  scale(1, 1)  rotate(0.0002)  translate(-23.9365, -15.8738)  translate(-1.192700,-1.857000) ">
+      <!--emf-blob start-->
+      <g transform="translate(0.9332, 0.9332)">
+        <defs>
+          <clipPath id="clip-468703135">
+            <path d="M 1.8664,1.8664 L 46.6597,1.8664 L 46.6597,32.6618 L 1.8664,32.6618 L 1.8664,1.8664 Z Z"/>
+          </clipPath>
+        </defs>
+        <image width="44.7933" height="31.7286" x="0.9332" y="0.9332" clip-path="url(#clip-468703135)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAiCAYAAAAZHFoXAAABcklEQVRYhdWXyxaCMAxEG47/y/+vdFVOiZlk0hfajYC1nZsbReQ8z3f50yEi5fV0CD1ExDxGcx8HqCGt4B5AfW87gA6XAbCAtgBYYTMg6LyUxQA66N8A1IBM6J8C8IJHJtD5FoAoeMaEvr4UoN34OA4qOGtiOYAVdIaJLQC12u3rLBMIAN3UUgBM1VkbVvilAF44baS9xgAhAASTBkChV5uYAtATPKo++z2IWkgk+DfKhu+xwZiIDLgAbJDeVsqYQBZSAFZQz0gphYKz9ho2gBZebUTv6QHU8y+AqDorjKB9hgGY6qww0q6tjzXMDSAKmm2rrBFrfcuCCzBSbTb8iAkIEFWbmRNBjxihDaBjtkdnmWJayTTgVZoJngFijaAsF0AmcAQ5aiUyAg20o50QGYreRwXpMaJBbgBRlaNAVrjsZ6w1vJvfBRBVvHdkrfW0U9czMWuLnc8asn5mqQcavTmaMzK8LnBbLBtkRtje9a2W+wCkWAxXmRpbmgAAAABJRU5ErkJgggAA"/>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 18.6639,512.3239 L 733.4911,512.3239 L 733.4911,18.6639 L 18.6639,18.6639 L 18.6639,512.3239 " stroke="#1A1A1A" stroke-width="22.3967" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+        <g transform="matrix(0.0625 0.0000 0.0000 0.0625 0.0000 0.0000)">
+          <path d="M 164.2423,279.0252 L 190.3717,205.3028 L 216.5012,279.0252 L 164.2423,279.0252 Z M 168.9082,154.9103 L 91.4531,357.4136 L 137.1796,357.4136 L 153.0439,312.6202 L 227.6995,312.6202 L 243.5638,357.4136 L 289.2904,357.4136 L 213.7016,154.9103 L 168.9082,154.9103 Z M 398.4742,154.9103 L 307.0211,154.9103 L 307.0211,357.4136 L 351.8144,357.4136 L 351.8144,284.6244 L 398.4742,284.6244 C 448.8667,284.6244 468.4638,252.8958 468.4638,220.2340 C 468.4638,187.5721 448.8667,154.9103 398.4742,154.9103 Z M 386.3426,250.0962 L 351.8144,250.0962 L 351.8144,189.4385 L 386.3426,189.4385 C 406.8729,189.4385 425.5368,194.1045 425.5368,220.2340 C 425.5368,245.4302 406.8729,250.0962 386.3426,250.0962 Z M 586.9795,154.9103 L 496.4596,154.9103 L 496.4596,357.4136 L 540.3198,357.4136 L 540.3198,284.6244 L 586.9795,284.6244 C 637.3720,284.6244 656.9691,252.8958 656.9691,220.2340 C 656.9691,187.5721 637.3720,154.9103 586.9795,154.9103 Z M 574.8480,250.0962 L 540.3198,250.0962 L 540.3198,189.4385 L 574.8480,189.4385 C 595.3782,189.4385 614.0421,194.1045 614.0421,220.2340 C 614.0421,245.4302 595.3782,250.0962 574.8480,250.0962 Z " fill="#FFFFFF" stroke="none"/>
+        </g>
+        <g transform="matrix(1.0000 0.0000 0.0000 1.0000 0.0000 0.0000)">
+</g>
+      </g>
+      <!--emf-blob end-->
+    </g>
+  </g>
+</svg>

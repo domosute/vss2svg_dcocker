@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.2000000000" height="7.2000000000">
+  <title><![CDATA[Virtual Tape Library]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M42.1584,7.2529 L1.1927,7.2529 L1.1927,-0.4565 L42.1584,-0.4565 L42.1584,7.2529 Z" style="fill-rule: evenodd; fill: #3f387c; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M41.4026,6.6482 C18.5767,6.6482 18.5767,6.6482 18.5767,6.6482 C17.3674,6.6482 16.4604,5.5901 16.4604,4.3808 C16.4604,2.2645 16.4604,2.2645 16.4604,2.2645 C16.4604,1.0551 17.3674,-0.0030 18.5767,-0.0030 C41.4026,-0.0030 41.4026,-0.0030 41.4026,-0.0030 C41.4026,6.6482 41.4026,6.6482 41.4026,6.6482 Z" style="fill-rule: evenodd; fill: #988db1; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M40.7980,6.0436 C19.0302,6.0436 19.0302,6.0436 19.0302,6.0436 C17.9720,6.0436 17.2162,5.1366 17.2162,4.2296 C17.2162,2.5668 17.2162,2.5668 17.2162,2.5668 C17.2162,1.5086 17.9720,0.7528 19.0302,0.7528 C40.7980,0.7528 40.7980,0.7528 40.7980,0.7528 C40.7980,6.0436 40.7980,6.0436 40.7980,6.0436 Z" style="fill-rule: evenodd; fill: #171868; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M1.1927,8.1599 L-0.0166,8.1599 L-0.0166,-1.3635 L1.1927,-1.3635 L1.1927,8.1599 Z" style="fill-rule: evenodd; fill: #3f387c; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.2166,8.1599 L42.1584,8.1599 L42.1584,-1.3635 L43.2166,-1.3635 L43.2166,8.1599 Z" style="fill-rule: evenodd; fill: #3f387c; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M42.0073,-0.4565 L1.1927,-0.4565 L3.1579,-3.3286 L40.0421,-3.3286 L42.0073,-0.4565 Z" style="fill-rule: evenodd; fill: #988db1; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M18.7279,5.1366 L1.4951,5.1366 L1.4951,1.5086 L18.7279,1.5086 L18.7279,5.1366 Z" style="fill-rule: evenodd; fill: #171868; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M18.1232,4.5319 L2.5532,4.5319 L2.5532,2.1133 L18.1232,2.1133 L18.1232,4.5319 Z" style="fill-rule: evenodd; fill: #6b5f95; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.2628,7.2529 L19.6349,7.2529 L19.6349,-0.4565 L23.2628,-0.4565 L23.2628,7.2529 Z" style="fill-rule: evenodd; fill: #6b5f95; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M22.8093,1.0551 L19.9372,1.0551 L19.9372,0.2993 L22.8093,0.2993 L22.8093,1.0551 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M40.7980,6.0436 L27.4954,6.0436 L27.4954,0.7528 L40.7980,0.7528 L40.7980,6.0436 Z" style="fill-rule: evenodd; fill: #6b5f95; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M34.1467,2.2645 L27.4954,2.2645 L27.4954,0.7528 L34.1467,0.7528 L34.1467,2.2645 Z" style="fill-rule: evenodd; fill: #988db1; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M40.7980,2.2645 L34.1467,2.2645 L34.1467,0.7528 L40.7980,0.7528 L40.7980,2.2645 Z" style="fill-rule: evenodd; fill: #171868; "/>
+    <text xmlns="http://www.w3.org/2000/svg" x="-8.5100" y="17.9100">
+      <tspan font-family="Arial" font-size="4.5000" fill="#000000" fill-opacity="1.0000" stroke-opacity="1.0000">
+Virtual Tape Library</tspan>
+    </text>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>
