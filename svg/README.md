@@ -12,6 +12,10 @@
   https://www.cisco.com/c/dam/assets/prod/visio/visio/switches_cisco_nexus_3000.zip
 - Cisco Unified Computing System and HyperFlex Systems (HCI)
   https://www.cisco.com/c/dam/assets/prod/visio/visio/unified-computing-system-hyperflex-systems.zip
+- Security - Cisco Meraki
+  https://www.cisco.com/c/dam/assets/prod/visio/visio/security-cisco-meraki.zip
+- Security - Cisco ASA55xx
+  https://www.cisco.com/c/dam/assets/prod/visio/visio/products_visio_icon0900aecd8050a7d7.zip
 
 
 ## Dell
