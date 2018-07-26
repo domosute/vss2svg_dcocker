@@ -13,7 +13,7 @@ $ docker build -t vss2svg .
 ```
 3. Run
 ```
-$ docker -dit --name vss2svg -v $PWD:/opt vss2svg bash
+$ docker run -dit --name vss2svg -v $PWD:/opt vss2svg bash
 ```
 4. Exectute in the docker container, download visio stencil and convert vss file with vss2svg-conv.
 ```
